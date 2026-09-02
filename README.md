@@ -11,12 +11,13 @@ Iki repositori buat belajar pemrograman web selama 1 semester. Semoga diakhir sa
 
 ---
 ## Struktur
-Pemrograman Web/
+<pre>
+Pemrograman Web
 ├── Minggu-1/
 │   ├── kartu-simple/
 │   └── simple_web.html
 ├── Minggu-2/
 └── Minggu-3/
-
+</pre>
 ---
 **Author:** kejulipat
