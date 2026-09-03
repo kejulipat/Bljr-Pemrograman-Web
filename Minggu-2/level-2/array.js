@@ -1,0 +1,11 @@
+const products = [
+  { id: 1, title: "Laptop", price: 15000000, category: "elektronik" },
+  { id: 2, title: "Smartphone", price: 5000000, category: "elektronik" },
+  { id: 3, title: "Meja Kerja", price: 1200000, category: "perabotan" }
+];
+
+const cheapProducts = products.filter(product => product.price < 10000000);
+const priceList = products.map((icikiwir) => 'Rp' + icikiwir.price);
+
+console.log(cheapProducts);
+console.log(priceList);
