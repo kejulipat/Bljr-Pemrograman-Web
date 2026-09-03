@@ -1,23 +1,32 @@
-# Bljr-Pemrograman-Web
+# Belajar Pemrograman Web
 
-Iki repositori buat belajar pemrograman web selama 1 semester. Semoga diakhir saya bisa bikin game berbasis web.
+Repository ini berisi latihan pemrograman web selama satu semester. Materi dimulai dari dasar HTML dan CSS, kemudian akan dikembangkan menuju project web yang lebih interaktif.
 
 ## Progress Pembelajaran
 
-- [x] **[Minggu 1 - HTML dan CSS Fundamentals](./Minggu-1)**
-- [ ] Minggu 2 - *(Belom)*
-- [ ] Minggu 3 - *(Belom)*
-- [ ] Minggu 4 - *(Belom)*
+| Pertemuan | Materi | Status |
+| --- | --- | --- |
+| Minggu 1 | HTML dan CSS Fundamentals | Selesai |
+| Minggu 2 | Belum dimulai | Belum |
+| Minggu 3 | Belum dimulai | Belum |
+| Minggu 4 | Belum dimulai | Belum |
 
----
-## Struktur
-<pre>
-Pemrograman Web
+## Struktur Folder
+
+```text
+Pemrograman Web/
 ├── Minggu-1/
 │   ├── kartu-simple/
-│   └── simple_web.html
+│   │   ├── index.html       # Latihan membuat kartu profil
+│   │   └── style.css        # Styling kartu profil
+│   ├── navbar/
+│   │   ├── index.html       # Latihan membuat navigation bar
+│   │   └── style.css        # Styling navigation bar
+│   └── simple_web.html       # Latihan form HTML sederhana
 ├── Minggu-2/
 └── Minggu-3/
-</pre>
----
-**Author:** kejulipat
+```
+
+## Author
+
+**kejulipat**
